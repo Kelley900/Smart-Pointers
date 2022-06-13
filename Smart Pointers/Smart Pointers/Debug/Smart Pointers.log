@@ -1,0 +1,9 @@
+﻿  Smart Pointers.cpp
+  The contents of <execution> are available only with C++17 or later.
+D:\Users\kelle\Desktop\Assignments\Smart Pointers\Smart Pointers\Smart Pointers\Smart Pointers.cpp(40,13): warning C4129: 'P': unrecognized character escape sequence
+D:\Users\kelle\Desktop\Assignments\Smart Pointers\Smart Pointers\Smart Pointers\Smart Pointers.cpp(44,13): warning C4129: 'C': unrecognized character escape sequence
+D:\Users\kelle\Desktop\Assignments\Smart Pointers\Smart Pointers\Smart Pointers\Smart Pointers.cpp(57,13): warning C4129: 'P': unrecognized character escape sequence
+D:\Users\kelle\Desktop\Assignments\Smart Pointers\Smart Pointers\Smart Pointers\Smart Pointers.cpp(61,13): warning C4129: 'C': unrecognized character escape sequence
+D:\Users\kelle\Desktop\Assignments\Smart Pointers\Smart Pointers\Smart Pointers\Smart Pointers.cpp(73,13): warning C4129: 'P': unrecognized character escape sequence
+D:\Users\kelle\Desktop\Assignments\Smart Pointers\Smart Pointers\Smart Pointers\Smart Pointers.cpp(77,13): warning C4129: 'C': unrecognized character escape sequence
+  Smart Pointers.vcxproj -> D:\Users\kelle\Desktop\Assignments\Smart Pointers\Smart Pointers\Debug\Smart Pointers.exe
